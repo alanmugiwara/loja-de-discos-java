@@ -25,6 +25,11 @@ Nicolas Vogiantzis
 ### Entrega
 24.03.2025
 
+## Demonstração
+------------
+
+![Demonstração](https://github.com/alanmugiwara/alanmugiwara.github.io/blob/main/img/loja-java-demo.gif?raw=true)
+
 Contato
 -------
 
