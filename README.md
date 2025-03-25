@@ -9,12 +9,12 @@
 [![directory files](https://img.shields.io/github/directory-file-count/alanmugiwara/loja-de-discos-java?color=8A2BE2)](https://github.com/alanmugiwara)
 
 ### Atividade
-Desenvolver um Script em Java com a utilização de:
-A) Classes
-B) Objetos
-C) Métodos
-D) Herança
-C) Poliformismo
+Desenvolver um script em Java utilizando:
+- A) Classes
+- B) Objetos
+- C) Métodos
+- D) Herança
+- C) Poliformismo
 
 ### Disciplina
 Programação e Linguagem Orientada a Objetos
