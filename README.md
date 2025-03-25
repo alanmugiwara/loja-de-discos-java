@@ -10,7 +10,6 @@
 
 ### Atividade
 Desenvolver um Script em Java com a utilização de:
-Apenas Script em java que utilize os elementos
 A) Classes
 B) Objetos
 C) Métodos
