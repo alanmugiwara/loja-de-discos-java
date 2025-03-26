@@ -1,7 +1,8 @@
 [![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Java-8A2BE2)](https://github.com/alanmugiwara)
-[![Created Badge](https://badges.pufler.dev/created/alanmugiwara/loja-de-discos-java?color=8A2BE2)](https://github.com/alanmugiwara)
-[![Updated Badge](https://badges.pufler.dev/updated/alanmugiwara/loja-de-discos-java/?color=blueviolet)](https://github.com/alanmugiwara)
+[![Created Badge](https://badges.pufler.dev/created/alanmugiwara/loja-de-discos-java/?color=blueviolet)](https://github.com/alanmugiwara)
+[![Updated Badge](https://badges.pufler.dev/updated/alanmugiwara/loja-de-discos-java?color=8A2BE2)](https://github.com/alanmugiwara)
 [![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/loja-de-discos-java?color=8A2BE2)](https://github.com/alanmugiwara)
+
 
 [![contributors](https://img.shields.io/github/contributors/alanmugiwara/loja-de-discos-java?color=8A2BE2)](https://github.com/alanmugiwara)
 [![issues counter](https://img.shields.io/github/issues/alanmugiwara/loja-de-discos-java?color=8A2BE2)](https://github.com/alanmugiwara)
